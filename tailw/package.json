@@ -1,0 +1,23 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "build-css":"tailwindcss build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UtpalTheDev/tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UtpalTheDev/tailwind/issues"
+  },
+  "homepage": "https://github.com/UtpalTheDev/tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.3"
+  }
+}
